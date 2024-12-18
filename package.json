@@ -1,0 +1,21 @@
+{
+  "name": "ebay-titles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akh1999",
+  "license": "ISC",
+  "dependencies": {
+    "@scrapingant/scrapingant-client": "^0.2.1",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "openai": "^4.77.0",
+    "puppeteer": "^23.10.4",
+    "xlsx": "^0.18.5",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
+  }
+}
